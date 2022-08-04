@@ -1,4 +1,4 @@
-# TDD em Python 
+# TDD em Python 🐐
 
 Princípios de Test-Driven Development aplicados a Python, usando Django e Selenium pra criação de web app simples.
 
