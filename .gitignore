@@ -1,3 +1,11 @@
 # Ignore arquivos python cache
 *.pyc
-__pycache__/*
+*/__pycache__/*
+
+# Ignore logs
+*.log
+
+# E arquivos db
+db.sqlite3
+
+
