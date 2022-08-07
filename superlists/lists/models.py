@@ -1,3 +1,5 @@
 from django.db import models
 
-# Create your models here.
+# ORM
+class Item(models.Model):
+    text = models.TextField(default='')
